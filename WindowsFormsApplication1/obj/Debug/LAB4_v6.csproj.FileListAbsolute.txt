@@ -1,0 +1,8 @@
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LAB4_V6.MainForm.resources
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LAB4_v6.csproj.GenerateResource.Cache
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
