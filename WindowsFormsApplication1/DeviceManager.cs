@@ -22,4 +22,5 @@ namespace LAB4_V5
             listComputer.Remove(obj);
         }
 
+    }
 }

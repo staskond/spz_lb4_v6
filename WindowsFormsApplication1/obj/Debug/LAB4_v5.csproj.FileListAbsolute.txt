@@ -6,3 +6,4 @@ E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Windo
 E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SPZ\lab4_v6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LAB4_v5.csprojResolveAssemblyReference.cache
